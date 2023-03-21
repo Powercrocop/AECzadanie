@@ -1,0 +1,6 @@
+C:\Users\Matus\source\repos\AECzadanie\bin\Debug\AECzadanie.dll
+C:\Users\Matus\source\repos\AECzadanie\bin\Debug\AECzadanie.pdb
+C:\Users\Matus\source\repos\AECzadanie\obj\Debug\AECzadanie.csproj.AssemblyReference.cache
+C:\Users\Matus\source\repos\AECzadanie\obj\Debug\AECzadanie.csproj.CoreCompileInputs.cache
+C:\Users\Matus\source\repos\AECzadanie\obj\Debug\AECzadanie.dll
+C:\Users\Matus\source\repos\AECzadanie\obj\Debug\AECzadanie.pdb

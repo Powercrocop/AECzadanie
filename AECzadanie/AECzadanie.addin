@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command AECzadanie</Text>
+    <Description>Some description for AECzadanie</Description>
+    <Assembly>AECzadanie.dll</Assembly>
+    <FullClassName>AECzadanie.Command</FullClassName>
+    <ClientId>3d886e44-a277-4199-89ce-68e1d35c5774</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application AECzadanie</Name>
+    <Assembly>AECzadanie.dll</Assembly>
+    <FullClassName>AECzadanie.App</FullClassName>
+    <ClientId>45d4e51a-05df-4c6f-ae67-ea00f7c2a0df</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
